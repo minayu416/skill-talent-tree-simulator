@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# Skill Talent Tree Simulator
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Once upon a time, when I was playing WOW WOTLK, one idea suddenly flight into by brain, so I think since I'm learning front-end skills now, if I can make a resume to present my software development skills and also can practice front-end skills, maybe refer the WOW talent tree template and give each section with software development skill design and meaning, maybe it will be fun, that is the reason of project born. 
+
+This project is developing by React.js and TailwindCSS.
 
 ## Available Scripts
 
